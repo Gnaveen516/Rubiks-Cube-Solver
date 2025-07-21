@@ -28,7 +28,7 @@ Scramble, manually solve, or watch the cube auto-solve step-by-step — all in y
 
 ## 🖥️ Demo
 
-![Demo Screenshot](<img width="1891" height="924" alt="Screenshot 2025-07-21 234445" src="https://github.com/user-attachments/assets/e53d5e8e-3dd0-46ce-bbd9-f496ad111d73" />)
+![Demo Screenshot](DemoPicture.png)
 
 ---
 
